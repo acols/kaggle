@@ -1,4 +1,4 @@
-### Ejemplo de Carga de Archivo cvs desde Kaggle a Azure SQL
+### Ejemplo de Carga de archivo csv desde Kaggle a Azure SQL utiliando Python
 ### Se proporciona el archivo load_csv.py desarrollado en Python para leer un archivo csv ubicado en
 ### https://www.kaggle.com/datasets/anoopjohny/consumer-complaint-database/data
 ### Requerimientos:
